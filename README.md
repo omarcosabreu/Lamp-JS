@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Lamp" src=".assets/lamp.png" width="100%">
+  <img alt="projeto Lamp" src="assets/lamp.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
